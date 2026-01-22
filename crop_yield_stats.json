@@ -1,0 +1,22 @@
+{
+    "Rice": {
+        "min_yield": 0.0,
+        "max_yield": 5653.83,
+        "avg_yield": 2080.995036231884
+    },
+    "Wheat": {
+        "min_yield": 0.0,
+        "max_yield": 5541.52,
+        "avg_yield": 2122.3980233494362
+    },
+    "Maize": {
+        "min_yield": 0.0,
+        "max_yield": 21428.57,
+        "avg_yield": 2324.790909822866
+    },
+    "Sugarcane": {
+        "min_yield": 0.0,
+        "max_yield": 22062.3,
+        "avg_yield": 4990.710370370371
+    }
+}
